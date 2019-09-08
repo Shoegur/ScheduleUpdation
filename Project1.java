@@ -1,14 +1,17 @@
 
 package swapping;
 
-public class Swapping_dev A
+
+
+
+public class Swapping_devB 
+>>>>>>> Modified Project1.java for release
 {
-    public static void main(String[] args) 
-    
-    {
+      public static void main(String[] args)
+      {
       int x,y,temp;
-      x= 15;
-      y = 89;
+      x=15;
+      y=89;
       System.out.println("Before Swapping : x,y = "+x+", "+ + y);
       temp = x;
       x=y;
